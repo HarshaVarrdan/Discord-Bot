@@ -5,7 +5,7 @@ import asyncio
 import yt_dlp
 import os
 
-TOKEN = "MTEwNzI0NzM2OTgxMDEwNDM1MQ.G5OVmI.OxsFHKE8ghRGLpKkMrk4sdSdq33YvaBCJQVoJM"
+TOKEN = ""
 
 intents = discord.Intents.default()
 intents.message_content = True
